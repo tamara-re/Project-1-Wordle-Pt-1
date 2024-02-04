@@ -6,38 +6,18 @@ Wordle is an app that lets you guess a word with the amount of letters of your c
 
 Time spent: 3 hours spent in total
 
-## Required Features
-
-The following **required** functionality is completed:
+##  Features
 
 - [x] User can change the number of letters per row (the length of the goal word)
 - [x] User can change the numbers of rows on the board (how many guesses allowed)
 - [x] User can select a new themed set to pull the goal word from
 - [x] User can select "alien wordle", causing the goal word to change after each guess
-
-
-The following **optional** features are implemented:
-
 - [x] App displays a reset button on the top left to reset the game (but make no changes to the settings)
-
-The following **additional** features are implemented:
-
-- [x] List anything else that you can get done to improve the app functionality!
-- I want to add more color to the settings and customize the reset button
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
 
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/782aee684624493e85a9cdd505d16795-with-play.gif">
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
-I had a hard time understanding the syntax of validating and type casting values. However the hints were extremely helpful to breakdown what each method needed and its function. 
-
 
 ## License
 
